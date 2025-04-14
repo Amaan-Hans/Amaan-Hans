@@ -1,4 +1,4 @@
-### Hi 👋, I'm Amaan 👋
+### Hi 👋, I'm Amaan 
 
 - 🔭 I’m currently working on honours research in computational models 
 - 🌱 I’m currently learning machine learning
