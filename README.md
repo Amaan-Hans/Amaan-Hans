@@ -28,14 +28,8 @@
   <a href="https://www.sql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.ros.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Robot_Operating_System_logo.svg" alt="ros" width="40" height="40"/>
-  </a>
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Mathematica_logo.svg" alt="mathematica" width="40" height="40"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
