@@ -67,4 +67,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Microsoft_Azure_Logo.svg" alt="azure-web" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaan-Has&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amaan-Hans" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amaan-Hans&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amaan-Hans" /></p>
