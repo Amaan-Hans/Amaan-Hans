@@ -39,4 +39,4 @@
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Amaan-Hans&show_icons=true&theme=dark&locale=en&layout=compact)
+![Top Languages](![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amaan-Hans&theme=github_dark))
