@@ -1,8 +1,8 @@
 # Hi, I'm Amaan 👋
 
-> Honours researcher · ML learner · Professional debugger
+> Masters researcher · ML learner · Professional debugger
 
-- 🔭 **Currently:** Honours research in computational models
+- 🔭 **Currently:** Masters research in computational models
 - 🌱 **Learning:** Machine learning
 - ⚡ **Fun fact:** I debug more than I program
 
